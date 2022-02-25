@@ -1,6 +1,6 @@
 ## MBM Status
 
-Status progress about MIUI By Maki [editor on GitHub](https://t.me/MIUIByMaki).
+Status progress about [MIUI By Maki](https://t.me/MIUIByMaki).
 
 All updates will be posted here in this page.
 
