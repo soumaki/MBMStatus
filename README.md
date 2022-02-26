@@ -30,6 +30,7 @@ I've worked in lot of changes to system get more smoother than usually
 12.7 A11 
 ## English - [Download post](https://t.me/MIUIByMaki/38)
 ## Português - [Post do Download](https://t.me/twapple/1592)
+## Video Review By Tech Karan on [YouTube](https://www.youtube.com/watch?v=jMBKPzgaTFE) - Thanks <3
 
 
 ![Image](https://telegra.ph/file/3fe6c802c153a04498204.jpg)
