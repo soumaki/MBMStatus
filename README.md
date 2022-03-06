@@ -8,7 +8,7 @@ All updates will be posted here in this page.
 
 ##Latest MBM releases 
 
-![Image](https://telegra.ph/file/37cf159d05861a55d3fe8.jpg)
+![Image](https://telegra.ph/file/45a9a28b8399a94fa07c5.jpg)
 ```markdown
 MIUI By Maki - MBM Edition soon (--/03)
 A New MIUI By Maki Edition -Soon!
