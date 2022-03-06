@@ -8,6 +8,16 @@ All updates will be posted here in this page.
 
 ##Latest MBM releases 
 
+![Image](https://telegra.ph/file/37cf159d05861a55d3fe8.jpg)
+```markdown
+MIUI By Maki - MBM Edition soon (--/03)
+A New MIUI By Maki Edition -Soon!
+
+```
+# Info 
+Working - Info soon
+## English - [Download post](https://t.me/MIUIByMaki)
+
 ![Image](https://telegra.ph/file/515b4f17352381f46f0e0.jpg)
 ```markdown
 MIUI By Maki - Experience (Soft Enhanced) v12.7 MBM Beta (25/02)
